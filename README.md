@@ -1,2 +1,2 @@
-# CSE111---Project
-repository for CSE111 project
+# CSE111--Project
+CSE111 project
